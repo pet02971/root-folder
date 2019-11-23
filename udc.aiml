@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>*</pattern>
+    <template>I have no answer for that.</template>
+  </category>
+<category>
+    <pattern>Click node to edit pattern</pattern>
+    <template>Browse Job Postings</template>
+</category>
+
+<category><pattern>I am here to search for jobs</pattern><template><srai>CLICK NODE TO EDIT PATTERN</srai></template></category>
+<category><pattern>Is anyone hiring</pattern><template><srai>CLICK NODE TO EDIT PATTERN</srai></template></category>
+<category><pattern>Show job postings</pattern><template><srai>CLICK NODE TO EDIT PATTERN</srai></template></category>
+
+<category>
+    <pattern>Click node to edit pattern</pattern>
+    <template>Desired Tech Skills</template>
+</category>
+<category>
+    <pattern>Click node to edit pattern</pattern>
+    <template>Let Me Guide You Through the Site</template>
+</category>
+
+<category><pattern>Tour</pattern><template><srai>CLICK NODE TO EDIT PATTERN</srai></template></category>
+<category><pattern>Overview</pattern><template><srai>CLICK NODE TO EDIT PATTERN</srai></template></category>
+<category><pattern>Topics of Interest</pattern><template><srai>CLICK NODE TO EDIT PATTERN</srai></template></category>
+
+<category>
+    <pattern>Click node to edit pattern</pattern>
+    <template>See the services we offer</template>
+</category>
+
+<category><pattern>What is this site for</pattern><template><srai>CLICK NODE TO EDIT PATTERN</srai></template></category>
+
+<category>
+    <pattern>Click node to edit pattern</pattern>
+    <template>Contact Us</template>
+</category>
+<category>
+    <pattern>Click node to edit pattern</pattern>
+    <template>Troubleshooting</template>
+</category>
+
+<category><pattern>FAQ</pattern><template><srai>CLICK NODE TO EDIT PATTERN</srai></template></category>
+
+<category><pattern>Help</pattern><template><srai>FAQ</srai></template></category>
+
+
+<category>
+    <pattern>Click node to edit pattern</pattern>
+    <template>Start a Conversation</template>
+</category>
+
+<category><pattern>Review my resume</pattern><template><srai>CLICK NODE TO EDIT PATTERN</srai></template></category>
+
+<category>
+    <pattern>Click node to edit pattern</pattern>
+    <template>Hello and welcome</template>
+</category>
+
+<category><pattern>Hi </pattern><template><srai>CLICK NODE TO EDIT PATTERN</srai></template></category>
+<category><pattern>Hello</pattern><template><srai>CLICK NODE TO EDIT PATTERN</srai></template></category>
+<category><pattern>Can you help me find something</pattern><template><srai>CLICK NODE TO EDIT PATTERN</srai></template></category>
+
+</aiml>
